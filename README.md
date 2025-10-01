@@ -3,8 +3,9 @@
 # *compact* Test Interface Adapter
 
 The *compact* Test Interface Adapter is designed for low-volume in-circuit testing applications where an all-in-one ATE system would be overkill.  
-Instead of expensive integrated solutions, this approach leverages standard external instruments, such as a digital multimeter with some type of remote control interface like USB, RS232, Ethernet, or GPIB to take various measurements from the DUT (Device Under Test).  
+Instead of expensive integrated solutions, this approach uses standard external instruments, such as a digital multimeter with some type of remote control interface like USB, RS232, Ethernet, or GPIB to take various measurements from the DUT (Device Under Test).  
 Various external stimulus sources like power supplies or function generators can also be switched to the DUT through the adapter.
+To simplify communication with the DUT, there are galvanically isolated UART, RS485 and I²C communication interfaces.
 
 ### Features:
 
