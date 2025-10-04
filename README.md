@@ -20,7 +20,9 @@ To simplify communication with the DUT, there are galvanically isolated UART, RS
 
 ### Docs:
 
-- [Schematic](docs/schematic.pdf)
+- [Schematic](docs/Schematic.pdf)
 - [Assembly Drawing](docs/Assembly_Drawing.pdf)
 
+![image](docs/PCB_Render_Top.png)
+![image](docs/PCB_Render_Bot.png)
 ![image](docs/Render.png)
